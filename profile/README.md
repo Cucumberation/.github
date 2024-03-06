@@ -2,7 +2,7 @@
 
 Cucumbery is Minecraft paper plugin for improved survival gameplay.
 
-Compatible Version: `JE 1.20.4 (with latest Paper server)`
+Compatible Version: `Minecraft JE 1.20.4 (with latest Paper server)`
 
 ## Download
 
